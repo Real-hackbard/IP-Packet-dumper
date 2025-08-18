@@ -1,7 +1,7 @@
 # IP-Packet-dumper:
 
 ```ruby
-Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
+Compiler    : Delphi7 (or Higher)
 Components  : None
 Discription : Internet Monotoring Tool for Packet Dumps
 Last Update : 08/2025
